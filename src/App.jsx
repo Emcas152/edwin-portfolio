@@ -169,7 +169,7 @@ export default function Portfolio() {
                 <div className="space-y-4">
                   <div className="flex items-center gap-3">
                     <div className="w-3 h-3 bg-teal-500 rounded-full"></div>
-                    <span className="text-gray-600">+3 años en desarrollo web</span>
+                    <span className="text-gray-600">+7 años en desarrollo web</span>
                   </div>
                   <div className="flex items-center gap-3">
                     <div className="w-3 h-3 bg-blue-500 rounded-full"></div>
