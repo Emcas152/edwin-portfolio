@@ -1,0 +1,48 @@
+{
+  "name": "edwin-portfolio",
+  "version": "1.0.0",
+  "description": "Portafolio personal de Edwin Castillo - Desarrollador Full Stack",
+  "author": {
+    "name": "Edwin Castillo",
+    "email": "edwincas1522@hotmail.com",
+    "url": "https://github.com/Emcas152"
+  },
+  "homepage": "https://edwin-portfolio.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emcas152/edwin-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Emcas152/edwin-portfolio/issues"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "typescript",
+    "vite",
+    "tailwindcss",
+    "full-stack",
+    "developer",
+    "github-api"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.9.2",
+    "vite": "^4.4.9"
+  }
+}
